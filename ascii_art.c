@@ -342,11 +342,7 @@ int main()
         }
         else if(dig==26)
         {
-            printf("\n");
-            printf("\n");
-            printf("\n");
-            printf("\n");
-            printf("\n");
+            printf("\n\n\n\n");
         }
         else
         {
